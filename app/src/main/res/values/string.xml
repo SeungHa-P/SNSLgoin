@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="kakao_app_key" >03752f8014f10d481acd36538a0f49ee</string>
+    <string name="facebook_app_id">358055978612295</string>
+    <string name="fb_login_protocol_scheme">fb358055978612295</string>
+
+
+
+
+    <string name="naver_client_id">xsKf8hM_iZLwYAKzOtmV</string>
+    <string name="naver_client_secret">WfXMbnLgVw</string>
+    <string name="naver_client_name">Rank</string>
+    <string name="google_default_client">531230088708-qrl5gg4ngmqds04oodshr6hhbd3tb152.apps.googleusercontent.com</string>
+
+
+
+</resources>
